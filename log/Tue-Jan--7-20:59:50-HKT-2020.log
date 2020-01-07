@@ -1,2 +1,38 @@
 -------ADD COMMENTS-------
 -------COMMIT COMMENTS-------
+[master 2a2daa0] Auto-commit at Tue-Jan--7-20:59:50-HKT-2020
+ Committer: root <root@tommy@invtechbeta.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 23 files changed, 564 insertions(+)
+ create mode 100644 git/gogs-repositories/root/asd.git/HEAD
+ create mode 100644 git/gogs-repositories/root/asd.git/config
+ create mode 100644 git/gogs-repositories/root/asd.git/description
+ create mode 100755 git/gogs-repositories/root/asd.git/hooks/applypatch-msg.sample
+ create mode 100755 git/gogs-repositories/root/asd.git/hooks/commit-msg.sample
+ create mode 100755 git/gogs-repositories/root/asd.git/hooks/post-receive
+ create mode 100755 git/gogs-repositories/root/asd.git/hooks/post-update.sample
+ create mode 100755 git/gogs-repositories/root/asd.git/hooks/pre-applypatch.sample
+ create mode 100755 git/gogs-repositories/root/asd.git/hooks/pre-commit.sample
+ create mode 100755 git/gogs-repositories/root/asd.git/hooks/pre-push.sample
+ create mode 100755 git/gogs-repositories/root/asd.git/hooks/pre-rebase.sample
+ create mode 100755 git/gogs-repositories/root/asd.git/hooks/pre-receive
+ create mode 100755 git/gogs-repositories/root/asd.git/hooks/pre-receive.sample
+ create mode 100755 git/gogs-repositories/root/asd.git/hooks/prepare-commit-msg.sample
+ create mode 100755 git/gogs-repositories/root/asd.git/hooks/update
+ create mode 100755 git/gogs-repositories/root/asd.git/hooks/update.sample
+ create mode 100644 git/gogs-repositories/root/asd.git/info/exclude
+ create mode 100644 git/gogs-repositories/root/asd.git/info/refs
+ create mode 100644 git/gogs-repositories/root/asd.git/objects/info/packs
+ create mode 100644 log/Tue-Jan--7-20:59:50-HKT-2020.log
+-------PUSH COMMENTS-------
