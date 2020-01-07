@@ -1,2 +1,40 @@
 -------ADD COMMENTS-------
 -------COMMIT COMMENTS-------
+[master f4f96cc] Auto-commit at Tue-Jan--7-21:22:36-HKT-2020
+ Committer: root <root@tommy@invtechbeta.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 21 files changed, 457 deletions(-)
+ delete mode 100644 log/Tue-Jan--7-20:57:02-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-20:57:15-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-20:58:01-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-20:59:01-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-20:59:50-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:00:01-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:01:01-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:02:01-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:03:01-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:04:01-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:05:01-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:05:41-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:06:01-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:06:49-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:11:45-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:12:57-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:13:46-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:14:57-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:15:25-HKT-2020.log
+ delete mode 100644 log/Tue-Jan--7-21:18:12-HKT-2020.log
+ rename log/{Tue-Jan--7-21:20:53-HKT-2020.log => Tue-Jan--7-21:22:36-HKT-2020.log} (100%)
+-------PUSH COMMENTS-------
+Branch 'master' set up to track remote branch 'master' from 'https://jztxadmin:utf8utf8@github.com/InvtechBeta/Git-Archieve.git'.
