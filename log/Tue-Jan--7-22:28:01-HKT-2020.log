@@ -1,2 +1,20 @@
 -------ADD COMMENTS-------
 -------COMMIT COMMENTS-------
+[master 1f032cf] Auto-commit at Tue-Jan--7-22:28:01-HKT-2020
+ Committer: root <root@tommy@invtechbeta.com>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+)
+ create mode 100644 log/Tue-Jan--7-22:28:01-HKT-2020.log
+-------PUSH COMMENTS-------
+Branch 'master' set up to track remote branch 'master' from 'https://jztxadmin:utf8utf8@github.com/InvtechBeta/Git-Archieve.git'.
