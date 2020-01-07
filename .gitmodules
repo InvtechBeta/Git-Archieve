@@ -1,0 +1,6 @@
+[submodule "Git-Archieve"]
+	path = Git-Archieve
+	url = https://github.com/InvtechBeta/Git-Archieve.git
+[submodule "Cron-Auto-Push"]
+	path = Cron-Auto-Push
+	url = https://github.com/tommytim0515/Cron-Auto-Push.git
